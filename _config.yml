@@ -1,8 +1,8 @@
 # Site settings
-title: Design Haus
+title: The Design Haus
 location: Melbourne
 description: "Welcome to the Design Haus!"
-baseurl: "/"
+baseurl: "http://Design-Haus.github.io/"
 url: "http://Design-Haus.github.io/"
 
 # More settings
